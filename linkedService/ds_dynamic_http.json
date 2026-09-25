@@ -1,0 +1,15 @@
+{
+	"name": "ds_dynamic_http",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Basic",
+			"userName": "puneeth-007",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEEzQThGNEEzLUY3REYtNDYzQi1BNjkyLTk3OTQ2NDZFMDcxMF80Y2M0OWViYy1iMjVlLTQzYWQtOWI5Ni1mNGVhMjgxMGQxODkiDQp9"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "azuredatafactory00748",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c03f8f43-410f-48d8-9cea-7de99aea522d",
+		"tenantId": "d3a1a827-f081-4184-923b-8cb713136bfa"
+	}
+}
